@@ -1,6 +1,6 @@
 # 2a_Stop_and_Wait_Protocol
-##Name:Akshai khanna D
-##Register No:212223040010
+## Name:Akshai khanna D
+## Register No:212223040010
 ## AIM 
 To write a python program to perform stop and wait protocol
 ## ALGORITHM
